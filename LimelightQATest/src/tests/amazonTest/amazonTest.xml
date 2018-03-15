@@ -12,7 +12,6 @@
 	<listeners>
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
-		<listener class-name="helpers.ScreenshotOnFailure" />
 	</listeners>
 
 	<test name="Amazon Test"
