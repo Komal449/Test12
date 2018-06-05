@@ -46,7 +46,7 @@ public class AmazonTest {
 		srp.sortinglistPrice(firstFiveItems);
 		srp.sortinglistRating(firstFiveItems);
 		int x = 1,y= 3, r;
-		r= x+y;
+		r= x+4;
 		system.out.println(r);
 	
 		
